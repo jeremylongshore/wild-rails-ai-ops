@@ -60,7 +60,7 @@ Detailed per-repo runtime architecture, integration points, and failure modes ar
 
 ## Status
 
-All 10 repos are v1 (or v0.1.0 for `wild-skillops-registry`). Per-repo test counts and detail live in the [per-repo status table in the ecosystem CLAUDE.md](https://github.com/jeremylongshore/wild-rails-ai-ops/blob/main/CLAUDE.md#11-per-repo-status-table).
+All 10 repos are v1 (or v0.1.0 for `wild-skillops-registry`). Per-repo test counts and detail live in the [per-repo status table in the ecosystem CLAUDE.md](https://github.com/intent-solutions-io/wild-rails-ai-ops/blob/main/CLAUDE.md#11-per-repo-status-table).
 
 ## License
 
