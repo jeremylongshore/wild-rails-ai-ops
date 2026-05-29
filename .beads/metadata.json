@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "wild_rails_ai_ops",
+  "project_id": "33faee80-3275-47a1-bece-220c54e651f5"
+}
